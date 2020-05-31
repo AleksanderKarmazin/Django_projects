@@ -1,0 +1,8 @@
+
+1. In directory where manage.py is loceted start comand in shell (CMD) 
+         
+
+        python manage.py runserver
+
+2. Open http://127.0.0.1:8000/
+3. http://localhost:8000/polls/
